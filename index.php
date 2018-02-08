@@ -41,7 +41,7 @@
               <p>while others think there is much risk on the ideas.</p>
               <br><br>
               
-              <img src = "/Homework1/cst338_homework1/img/artificial.jpg" alt = "human and robot holding hands"/>
+              <img src = "img/artificial.jpg" alt = "human and robot holding hands"/>
               <br><br><br><br>
               
           </aside>

@@ -26,7 +26,7 @@
     
     <main>
         <figure id = "robot">
-            <img src = "/Homework1/cst338_homework1/img/robot.jpg" alt = "robot" />
+            <img src = "img/robot.jpg" alt = "robot" />
             <br><br>
             
         </figure>
