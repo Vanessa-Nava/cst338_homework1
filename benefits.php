@@ -9,7 +9,7 @@
 <body id = "benefitsBody">
     <header>
        <h1>Artificial Intelligence</h1> 
-       
+       <!-- Comment -->
        <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
 
         <link href = "css/styles.css" rel = "stylesheet" type = "text/css" />
