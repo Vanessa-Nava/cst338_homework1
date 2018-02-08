@@ -16,9 +16,9 @@
     <nav>
         <hr width = "50%" />
         <a href = "home.php">Home</a>
-        <a href = "risk.html">Risks</a>
-        <a href = "benefits.html">Benefits</a>
-        <a href = "projects.html">AI Projects</a>
+        <a href = "risk.php">Risks</a>
+        <a href = "benefits.php">Benefits</a>
+        <a href = "projects.php">AI Projects</a>
         
     </nav>
     <br/><br/>

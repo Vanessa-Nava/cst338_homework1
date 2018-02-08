@@ -70,3 +70,8 @@ a{
     color: #ffffff;
     font-size: 150%;
 }
+#hello{
+    float:left;
+    width: 50%;
+    color:white;
+}
