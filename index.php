@@ -17,7 +17,7 @@
     
     <nav>
         
-        <a href = "home.php">Home</a>
+        <a href = "index.php">Home</a>
         <a href = "risk.php">Risks</a>
         <a href = "benefits.php">Benefits</a>
         <a href = "projects.php">AI Projects</a>
