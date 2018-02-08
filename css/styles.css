@@ -1,5 +1,5 @@
 #homeBody{
-    background-image: url("img/art.jpg");
+    background-image: url("/img/art.jpg");
     color: white;
 }
 #benefitsBody{
@@ -30,7 +30,7 @@
     text-align: center;
 }
 #projBenefit{
-    background-image: url("img/Abstract-Color-Background.jpg");
+    background-image: url("/img/Abstract-Color-Background.jpg");
 }
 header, main, nav,footer, #pages{
     text-align: center;
