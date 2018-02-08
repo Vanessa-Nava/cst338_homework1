@@ -9,6 +9,7 @@
 <body id = "homeBody">
     <header>
        <h1>Artificial Intelligence</h1> 
+       <!--Vanessa Nava-->
        
        <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
         <link href = "css/styles.css" rel = "stylesheet" type = "text/css" />
