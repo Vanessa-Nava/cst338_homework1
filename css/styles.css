@@ -1,5 +1,5 @@
 #homeBody{
-    background-image: url("/Homework1/img/art.jpg");
+    background-image: url("/Homework1/cst338_homework1/img/art.jpg");
     color: white;
 }
 #benefitsBody{
@@ -30,7 +30,7 @@
     text-align: center;
 }
 #projBenefit{
-    background-image: url("/Homework1/img/Abstract-Color-Background.jpg");
+    background-image: url("/Homework1/cst338_homework1/img/Abstract-Color-Background.jpg");
 }
 header, main, nav,footer, #pages{
     text-align: center;
